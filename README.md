@@ -30,4 +30,16 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Santhoshi003/Leetcode/tree/master/0031-next-permutation) |
+## Math
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Santhoshi003/Leetcode/tree/master/0089-gray-code) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Santhoshi003/Leetcode/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Santhoshi003/Leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
