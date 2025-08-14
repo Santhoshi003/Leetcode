@@ -44,4 +44,9 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Santhoshi003/Leetcode/tree/master/0089-gray-code) |
+| [0191-number-of-1-bits](https://github.com/Santhoshi003/Leetcode/tree/master/0191-number-of-1-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Santhoshi003/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
