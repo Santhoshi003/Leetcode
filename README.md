@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Santhoshi003/Leetcode/tree/master/0089-gray-code) |
+| [0342-power-of-four](https://github.com/Santhoshi003/Leetcode/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
 | ------- |
@@ -45,8 +46,13 @@
 | ------- |
 | [0089-gray-code](https://github.com/Santhoshi003/Leetcode/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/Santhoshi003/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/Santhoshi003/Leetcode/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Santhoshi003/Leetcode/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Santhoshi003/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
