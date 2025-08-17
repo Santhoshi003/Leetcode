@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Santhoshi003/Leetcode/tree/master/0089-gray-code) |
+| [0263-ugly-number](https://github.com/Santhoshi003/Leetcode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Santhoshi003/Leetcode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/Santhoshi003/Leetcode/tree/master/1448-maximum-69-number) |
 ## Backtracking
