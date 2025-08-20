@@ -67,4 +67,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Santhoshi003/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/Santhoshi003/Leetcode/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
