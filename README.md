@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Santhoshi003/Leetcode/tree/master/0007-reverse-integer) |
 | [0089-gray-code](https://github.com/Santhoshi003/Leetcode/tree/master/0089-gray-code) |
 | [0263-ugly-number](https://github.com/Santhoshi003/Leetcode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Santhoshi003/Leetcode/tree/master/0342-power-of-four) |
