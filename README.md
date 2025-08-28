@@ -49,6 +49,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Santhoshi003/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Santhoshi003/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Santhoshi003/Leetcode/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Santhoshi003/Leetcode/tree/master/0089-gray-code) |
 | [0263-ugly-number](https://github.com/Santhoshi003/Leetcode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Santhoshi003/Leetcode/tree/master/0342-power-of-four) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Santhoshi003/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Santhoshi003/Leetcode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Santhoshi003/Leetcode/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
