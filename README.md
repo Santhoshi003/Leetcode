@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/Santhoshi003/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Santhoshi003/Leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Santhoshi003/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Santhoshi003/Leetcode/tree/master/0051-n-queens) |
 | [0136-single-number](https://github.com/Santhoshi003/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Santhoshi003/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Santhoshi003/Leetcode/tree/master/0283-move-zeroes) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Santhoshi003/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Santhoshi003/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Santhoshi003/Leetcode/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/Santhoshi003/Leetcode/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
