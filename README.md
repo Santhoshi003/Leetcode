@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Santhoshi003/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Santhoshi003/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Santhoshi003/Leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Santhoshi003/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Santhoshi003/Leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Santhoshi003/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Santhoshi003/Leetcode/tree/master/0051-n-queens) |
@@ -110,5 +111,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Santhoshi003/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Santhoshi003/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
