@@ -81,6 +81,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Santhoshi003/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Santhoshi003/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Santhoshi003/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Santhoshi003/Leetcode/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Santhoshi003/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Santhoshi003/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Santhoshi003/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## String Matching
 |  |
