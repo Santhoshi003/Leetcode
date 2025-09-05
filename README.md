@@ -16,6 +16,7 @@
 | [0136-single-number](https://github.com/Santhoshi003/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Santhoshi003/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Santhoshi003/Leetcode/tree/master/0283-move-zeroes) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Santhoshi003/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
