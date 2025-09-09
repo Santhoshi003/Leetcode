@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Santhoshi003/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Santhoshi003/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Santhoshi003/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Santhoshi003/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/Santhoshi003/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Santhoshi003/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Santhoshi003/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Santhoshi003/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Santhoshi003/Leetcode/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Santhoshi003/Leetcode/tree/master/0089-gray-code) |
 | [0263-ugly-number](https://github.com/Santhoshi003/Leetcode/tree/master/0263-ugly-number) |
@@ -95,6 +97,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Santhoshi003/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Santhoshi003/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Santhoshi003/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Santhoshi003/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
