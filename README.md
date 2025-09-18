@@ -14,6 +14,7 @@
 | [0046-permutations](https://github.com/Santhoshi003/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Santhoshi003/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Santhoshi003/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Santhoshi003/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Santhoshi003/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Santhoshi003/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Santhoshi003/Leetcode/tree/master/0217-contains-duplicate) |
@@ -86,6 +87,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Santhoshi003/Leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Santhoshi003/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Recursion
 |  |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Santhoshi003/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Santhoshi003/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
