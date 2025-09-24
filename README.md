@@ -57,6 +57,7 @@
 | [0075-sort-colors](https://github.com/Santhoshi003/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Santhoshi003/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Santhoshi003/Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Santhoshi003/Leetcode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/Santhoshi003/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Santhoshi003/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -111,6 +112,7 @@
 | [0049-group-anagrams](https://github.com/Santhoshi003/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Santhoshi003/Leetcode/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/Santhoshi003/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0392-is-subsequence](https://github.com/Santhoshi003/Leetcode/tree/master/0392-is-subsequence) |
 ## Database
 |  |
 | ------- |
@@ -154,4 +156,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Santhoshi003/Leetcode/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/Santhoshi003/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
