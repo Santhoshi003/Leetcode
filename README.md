@@ -124,6 +124,7 @@
 | ------- |
 | [0178-rank-scores](https://github.com/Santhoshi003/Leetcode/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/Santhoshi003/Leetcode/tree/master/0182-duplicate-emails) |
+| [0185-department-top-three-salaries](https://github.com/Santhoshi003/Leetcode/tree/master/0185-department-top-three-salaries) |
 ## Sorting
 |  |
 | ------- |
