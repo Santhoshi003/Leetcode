@@ -31,6 +31,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Santhoshi003/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Santhoshi003/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Santhoshi003/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Santhoshi003/Leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Santhoshi003/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Santhoshi003/Leetcode/tree/master/0217-contains-duplicate) |
 | [1319-unique-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -61,6 +62,7 @@
 | [0031-next-permutation](https://github.com/Santhoshi003/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Santhoshi003/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Santhoshi003/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Santhoshi003/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Santhoshi003/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Santhoshi003/Leetcode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/Santhoshi003/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -73,6 +75,7 @@
 | [0013-roman-to-integer](https://github.com/Santhoshi003/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Santhoshi003/Leetcode/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Santhoshi003/Leetcode/tree/master/0089-gray-code) |
+| [0202-happy-number](https://github.com/Santhoshi003/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Santhoshi003/Leetcode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Santhoshi003/Leetcode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/Santhoshi003/Leetcode/tree/master/1448-maximum-69-number) |
