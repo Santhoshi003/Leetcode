@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/Santhoshi003/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Santhoshi003/Leetcode/tree/master/0283-move-zeroes) |
 | [1319-unique-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Santhoshi003/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1848-sum-of-unique-elements](https://github.com/Santhoshi003/Leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Hash Table
@@ -35,6 +36,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Santhoshi003/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Santhoshi003/Leetcode/tree/master/0217-contains-duplicate) |
 | [1319-unique-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Santhoshi003/Leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Stack
 |  |
@@ -171,5 +173,6 @@
 ## Counting
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Santhoshi003/Leetcode/tree/master/1848-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
