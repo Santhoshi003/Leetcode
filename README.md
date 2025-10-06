@@ -18,6 +18,7 @@
 | [0075-sort-colors](https://github.com/Santhoshi003/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Santhoshi003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Santhoshi003/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Santhoshi003/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Santhoshi003/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Santhoshi003/Leetcode/tree/master/0283-move-zeroes) |
 | [1319-unique-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -32,6 +33,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Santhoshi003/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Santhoshi003/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Santhoshi003/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Santhoshi003/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Santhoshi003/Leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Santhoshi003/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Santhoshi003/Leetcode/tree/master/0217-contains-duplicate) |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Santhoshi003/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Santhoshi003/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Santhoshi003/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Recursion
 |  |
@@ -136,6 +139,7 @@
 | [0015-3sum](https://github.com/Santhoshi003/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Santhoshi003/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Santhoshi003/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Santhoshi003/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Santhoshi003/Leetcode/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
@@ -173,6 +177,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Santhoshi003/Leetcode/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Santhoshi003/Leetcode/tree/master/1848-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
