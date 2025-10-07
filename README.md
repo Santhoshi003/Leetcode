@@ -40,6 +40,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Santhoshi003/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0058-length-of-last-word](https://github.com/Santhoshi003/Leetcode/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/Santhoshi003/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/Santhoshi003/Leetcode/tree/master/0392-is-subsequence) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Database
 |  |
 | ------- |
@@ -180,4 +182,5 @@
 | [0169-majority-element](https://github.com/Santhoshi003/Leetcode/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Santhoshi003/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
