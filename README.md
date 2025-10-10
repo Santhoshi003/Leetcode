@@ -81,6 +81,7 @@
 | [0013-roman-to-integer](https://github.com/Santhoshi003/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Santhoshi003/Leetcode/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Santhoshi003/Leetcode/tree/master/0089-gray-code) |
+| [0171-excel-sheet-column-number](https://github.com/Santhoshi003/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Santhoshi003/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Santhoshi003/Leetcode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Santhoshi003/Leetcode/tree/master/0342-power-of-four) |
@@ -128,6 +129,7 @@
 | [0049-group-anagrams](https://github.com/Santhoshi003/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Santhoshi003/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Santhoshi003/Leetcode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Santhoshi003/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Santhoshi003/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/Santhoshi003/Leetcode/tree/master/0392-is-subsequence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
