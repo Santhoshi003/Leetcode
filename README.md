@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Santhoshi003/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Santhoshi003/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Santhoshi003/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Santhoshi003/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0089-gray-code](https://github.com/Santhoshi003/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Santhoshi003/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Santhoshi003/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Santhoshi003/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/Santhoshi003/Leetcode/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
@@ -166,6 +169,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Santhoshi003/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Santhoshi003/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Santhoshi003/Leetcode/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/Santhoshi003/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Design
 |  |
 | ------- |
