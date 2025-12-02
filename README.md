@@ -176,6 +176,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Santhoshi003/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [1603-design-parking-system](https://github.com/Santhoshi003/Leetcode/tree/master/1603-design-parking-system) |
 ## Trie
 |  |
 | ------- |
@@ -191,6 +192,11 @@
 | ------- |
 | [0169-majority-element](https://github.com/Santhoshi003/Leetcode/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1603-design-parking-system](https://github.com/Santhoshi003/Leetcode/tree/master/1603-design-parking-system) |
 | [1848-sum-of-unique-elements](https://github.com/Santhoshi003/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Santhoshi003/Leetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
