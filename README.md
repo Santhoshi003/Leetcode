@@ -52,6 +52,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Santhoshi003/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Santhoshi003/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [2000-reverse-prefix-of-word](https://github.com/Santhoshi003/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Tree
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0283-move-zeroes](https://github.com/Santhoshi003/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Santhoshi003/Leetcode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/Santhoshi003/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/Santhoshi003/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Santhoshi003/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Santhoshi003/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Math
@@ -144,6 +146,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Santhoshi003/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Santhoshi003/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Santhoshi003/Leetcode/tree/master/0392-is-subsequence) |
+| [2000-reverse-prefix-of-word](https://github.com/Santhoshi003/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Database
 |  |
