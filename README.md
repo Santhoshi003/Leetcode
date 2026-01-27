@@ -27,6 +27,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Santhoshi003/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1848-sum-of-unique-elements](https://github.com/Santhoshi003/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Santhoshi003/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0392-is-subsequence](https://github.com/Santhoshi003/Leetcode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/Santhoshi003/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Santhoshi003/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Santhoshi003/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 | [0169-majority-element](https://github.com/Santhoshi003/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Santhoshi003/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Santhoshi003/Leetcode/tree/master/0242-valid-anagram) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Santhoshi003/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Linked List
 |  |
 | ------- |
