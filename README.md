@@ -216,4 +216,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Santhoshi003/Leetcode/tree/master/0054-spiral-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Santhoshi003/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
