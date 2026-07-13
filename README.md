@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/Santhoshi003/Leetcode/tree/master/0283-move-zeroes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Santhoshi003/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Santhoshi003/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1848-sum-of-unique-elements](https://github.com/Santhoshi003/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -44,6 +45,7 @@
 | [0242-valid-anagram](https://github.com/Santhoshi003/Leetcode/tree/master/0242-valid-anagram) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Santhoshi003/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Santhoshi003/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -163,6 +165,7 @@
 | [0169-majority-element](https://github.com/Santhoshi003/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Santhoshi003/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Santhoshi003/Leetcode/tree/master/0242-valid-anagram) |
+| [1331-rank-transform-of-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Santhoshi003/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Linked List
 |  |
