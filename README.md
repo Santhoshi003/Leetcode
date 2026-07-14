@@ -99,6 +99,7 @@
 | [0263-ugly-number](https://github.com/Santhoshi003/Leetcode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Santhoshi003/Leetcode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/Santhoshi003/Leetcode/tree/master/1448-maximum-69-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Santhoshi003/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Santhoshi003/Leetcode/tree/master/1448-maximum-69-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Santhoshi003/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Santhoshi003/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Santhoshi003/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Santhoshi003/Leetcode/tree/master/0392-is-subsequence) |
+| [1903-largest-odd-number-in-string](https://github.com/Santhoshi003/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Santhoshi003/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Database
