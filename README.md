@@ -100,6 +100,7 @@
 | [0342-power-of-four](https://github.com/Santhoshi003/Leetcode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/Santhoshi003/Leetcode/tree/master/1448-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Santhoshi003/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Santhoshi003/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Backtracking
 |  |
 | ------- |
@@ -226,4 +227,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Santhoshi003/Leetcode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Santhoshi003/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
