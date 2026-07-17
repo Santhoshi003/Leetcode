@@ -22,6 +22,7 @@
 | [0169-majority-element](https://github.com/Santhoshi003/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Santhoshi003/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Santhoshi003/Leetcode/tree/master/0283-move-zeroes) |
+| [0867-transpose-matrix](https://github.com/Santhoshi003/Leetcode/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Santhoshi003/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -224,12 +225,14 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Santhoshi003/Leetcode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Santhoshi003/Leetcode/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/Santhoshi003/Leetcode/tree/master/1603-design-parking-system) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Santhoshi003/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Santhoshi003/Leetcode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Santhoshi003/Leetcode/tree/master/0867-transpose-matrix) |
 ## Enumeration
 |  |
 | ------- |
