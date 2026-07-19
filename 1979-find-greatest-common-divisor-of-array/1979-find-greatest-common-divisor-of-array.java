@@ -18,7 +18,6 @@ class Solution {
                 mini = nums[i];
             }
         }
-        //int result = mini;
         int result = gcd(maxi,mini);
         return result;
     }
