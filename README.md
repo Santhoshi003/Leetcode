@@ -29,6 +29,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Santhoshi003/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1848-sum-of-unique-elements](https://github.com/Santhoshi003/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Santhoshi003/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Santhoshi003/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Santhoshi003/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -104,6 +105,7 @@
 | [0342-power-of-four](https://github.com/Santhoshi003/Leetcode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/Santhoshi003/Leetcode/tree/master/1448-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Santhoshi003/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Santhoshi003/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Santhoshi003/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Santhoshi003/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
@@ -242,6 +244,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Santhoshi003/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Santhoshi003/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Santhoshi003/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
