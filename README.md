@@ -283,4 +283,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Santhoshi003/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Santhoshi003/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
