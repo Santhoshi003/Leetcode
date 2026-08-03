@@ -7,9 +7,8 @@ class Solution {
         }
        List<Integer> ls = new ArrayList<>(map.keySet());
        ls.sort((a,b) -> map.get(b) - map.get(a));
-        int l =0;
         int [] arr = new int[k];
-        for(int i =0; i < k; i++) {
+        for(int i = 0; i < k; i++) {
             arr[i] = ls.get(i);
         }
         return arr;
