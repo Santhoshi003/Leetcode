@@ -26,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/Santhoshi003/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Santhoshi003/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Santhoshi003/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Santhoshi003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Santhoshi003/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Santhoshi003/Leetcode/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Santhoshi003/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -56,6 +57,7 @@
 | [0217-contains-duplicate](https://github.com/Santhoshi003/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Santhoshi003/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Santhoshi003/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Santhoshi003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Santhoshi003/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -296,4 +298,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Santhoshi003/Leetcode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Santhoshi003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
