@@ -26,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/Santhoshi003/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Santhoshi003/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Santhoshi003/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/Santhoshi003/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Santhoshi003/Leetcode/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Santhoshi003/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -224,6 +225,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Santhoshi003/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Santhoshi003/Leetcode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/Santhoshi003/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0704-binary-search](https://github.com/Santhoshi003/Leetcode/tree/master/0704-binary-search) |
 ## Design
 |  |
 | ------- |
