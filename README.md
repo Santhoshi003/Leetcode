@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Santhoshi003/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Santhoshi003/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Santhoshi003/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Santhoshi003/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Santhoshi003/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -98,6 +99,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Santhoshi003/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Santhoshi003/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Santhoshi003/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Santhoshi003/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -174,6 +176,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Santhoshi003/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Santhoshi003/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Santhoshi003/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1448-maximum-69-number](https://github.com/Santhoshi003/Leetcode/tree/master/1448-maximum-69-number) |
