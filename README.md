@@ -36,6 +36,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Santhoshi003/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Santhoshi003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Santhoshi003/Leetcode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Santhoshi003/Leetcode/tree/master/0705-design-hashset) |
 | [0867-transpose-matrix](https://github.com/Santhoshi003/Leetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Santhoshi003/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Santhoshi003/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -69,6 +70,7 @@
 | [0242-valid-anagram](https://github.com/Santhoshi003/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Santhoshi003/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Santhoshi003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/Santhoshi003/Leetcode/tree/master/0705-design-hashset) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Santhoshi003/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -241,6 +243,7 @@
 | [0141-linked-list-cycle](https://github.com/Santhoshi003/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Santhoshi003/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Santhoshi003/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/Santhoshi003/Leetcode/tree/master/0705-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/Santhoshi003/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Santhoshi003/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
@@ -261,6 +264,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Santhoshi003/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0705-design-hashset](https://github.com/Santhoshi003/Leetcode/tree/master/0705-design-hashset) |
 | [1603-design-parking-system](https://github.com/Santhoshi003/Leetcode/tree/master/1603-design-parking-system) |
 ## Trie
 |  |
@@ -341,4 +345,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Santhoshi003/Leetcode/tree/master/0881-boats-to-save-people) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Santhoshi003/Leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
