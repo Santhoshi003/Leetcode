@@ -93,6 +93,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Santhoshi003/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Santhoshi003/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Santhoshi003/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Santhoshi003/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Santhoshi003/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Santhoshi003/Leetcode/tree/master/0735-asteroid-collision) |
@@ -283,6 +284,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Santhoshi003/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0225-implement-stack-using-queues](https://github.com/Santhoshi003/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Santhoshi003/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/Santhoshi003/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Santhoshi003/Leetcode/tree/master/0706-design-hashmap) |
@@ -388,5 +390,6 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Santhoshi003/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Santhoshi003/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
