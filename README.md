@@ -45,6 +45,7 @@
 | [0705-design-hashset](https://github.com/Santhoshi003/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Santhoshi003/Leetcode/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/Santhoshi003/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Santhoshi003/Leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Santhoshi003/Leetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Santhoshi003/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Santhoshi003/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -99,6 +100,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Santhoshi003/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Santhoshi003/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Santhoshi003/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Santhoshi003/Leetcode/tree/master/0739-daily-temperatures) |
 | [2000-reverse-prefix-of-word](https://github.com/Santhoshi003/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Santhoshi003/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
@@ -401,4 +403,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Santhoshi003/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Santhoshi003/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Santhoshi003/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
