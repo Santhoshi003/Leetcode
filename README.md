@@ -38,6 +38,7 @@
 | [0283-move-zeroes](https://github.com/Santhoshi003/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Santhoshi003/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Santhoshi003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/Santhoshi003/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Santhoshi003/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Santhoshi003/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Santhoshi003/Leetcode/tree/master/0705-design-hashset) |
@@ -134,6 +135,7 @@
 | [0392-is-subsequence](https://github.com/Santhoshi003/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Santhoshi003/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Santhoshi003/Leetcode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Santhoshi003/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Santhoshi003/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Santhoshi003/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/Santhoshi003/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -247,6 +249,7 @@
 | [0217-contains-duplicate](https://github.com/Santhoshi003/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Santhoshi003/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Santhoshi003/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Santhoshi003/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Santhoshi003/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -279,6 +282,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santhoshi003/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Santhoshi003/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Santhoshi003/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0658-find-k-closest-elements](https://github.com/Santhoshi003/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Santhoshi003/Leetcode/tree/master/0704-binary-search) |
 ## Design
 |  |
@@ -344,6 +348,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Santhoshi003/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Santhoshi003/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
@@ -383,6 +388,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Santhoshi003/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Santhoshi003/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Santhoshi003/Leetcode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Santhoshi003/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Bracket Sequences
 |  |
 | ------- |
