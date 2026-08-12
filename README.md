@@ -57,6 +57,7 @@
 | [1848-sum-of-unique-elements](https://github.com/Santhoshi003/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Santhoshi003/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Santhoshi003/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Santhoshi003/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Santhoshi003/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Santhoshi003/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3731-find-missing-elements](https://github.com/Santhoshi003/Leetcode/tree/master/3731-find-missing-elements) |
@@ -91,6 +92,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Santhoshi003/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Santhoshi003/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Santhoshi003/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Santhoshi003/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Santhoshi003/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Santhoshi003/Leetcode/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -397,6 +399,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Santhoshi003/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Santhoshi003/Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Santhoshi003/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Santhoshi003/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bracket Sequences
 |  |
 | ------- |
