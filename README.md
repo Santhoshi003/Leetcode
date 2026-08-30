@@ -64,6 +64,7 @@
 | [1848-sum-of-unique-elements](https://github.com/Santhoshi003/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Santhoshi003/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Santhoshi003/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Santhoshi003/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Santhoshi003/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Santhoshi003/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Santhoshi003/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -229,6 +230,7 @@
 | [0881-boats-to-save-people](https://github.com/Santhoshi003/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1448-maximum-69-number](https://github.com/Santhoshi003/Leetcode/tree/master/1448-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Santhoshi003/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Santhoshi003/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## String
 |  |
 | ------- |
