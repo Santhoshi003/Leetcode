@@ -190,6 +190,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/Santhoshi003/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Santhoshi003/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Santhoshi003/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/Santhoshi003/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Backtracking
 |  |
 | ------- |
